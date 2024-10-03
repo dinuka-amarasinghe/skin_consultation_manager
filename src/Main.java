@@ -1,8 +1,3 @@
-/**I confirm that I understand what plagiarism , collusion , contract cheating is and have read and understood the section on Assessment Offences
- in the Essential Information for Students. The work that I have submitted is entirely my own. Any work from other authors is duly referenced and acknowledged**/
-//Student ID: 20211396/ w1899251
-//Date: 09/01/2023
-
 import java.util.Scanner;
 
 public class Main {
